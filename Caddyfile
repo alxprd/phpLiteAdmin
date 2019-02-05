@@ -2,7 +2,7 @@
 
 fastcgi / 127.0.0.1:9000 php
 
-startup php-fpm7
+on startup php-fpm7
 
 log stdout
 
